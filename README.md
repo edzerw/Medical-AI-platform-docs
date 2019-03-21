@@ -18,8 +18,6 @@ This is a quick start or getting started guide to introduce how to use DeepQ Med
 
 ### FAQ
 
-* [Transaction](faq/transaction-faq.md)
-* [Invoice](faq/invoice-faq.md)
-
+* [License]
 
 
