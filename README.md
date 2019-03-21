@@ -1,6 +1,6 @@
-# DeepQ AI Platform Tutorial
+# DeepQ Medical AI Platform Tutorial
 
-This is a quick start or getting started guide to introduce how to use DeepQ AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
+This is a quick start or getting started guide to introduce how to use DeepQ Medical AI Platform from data preparing to AI training. Check out these tutorials and get started your DeepCap and AI training experience.
 
 ### DeepCap: Tutorial of data preparing
 
