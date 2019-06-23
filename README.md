@@ -9,6 +9,7 @@ This is a quick start or getting started guide to introduce how to use DeepQ Med
 * [Create an Annotation Project](deepcap/create-an-annotation-project.md)
 * [Start Annotation](deepcap/start-annotation.md)
 * [DeepCap Smart Validation \(DSV\)](deepcap/deepcap-smart-validation-dsv.md)
+* [DeepCap_AI_Assisted_labeling]
 
 ### Deep AI Training : Tutorial of AI model training
 
